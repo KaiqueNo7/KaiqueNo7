@@ -6,5 +6,5 @@ Fala ae! 👋
 </div-->
 
 - 🔭 Assistente de TI na ITH2O - SOFTWARE
-- 🌱 Inglês e Laravel
+- 🌱 Inglês, Laravel e React 
 - 📫 kaiquenocetti07@gmail.com
