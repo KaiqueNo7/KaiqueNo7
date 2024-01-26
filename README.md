@@ -5,6 +5,12 @@ Fala ae! 👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueno7&layout=compact&langs_count=7&theme=dracula"/>
 </div-->
 
-- 🔭 Assistente de TI na ITH2O - SOFTWARE
-- 🌱 Inglês, Laravel e React 
+- 🔭 Desenvolvedor FullStack na ITH2O - SOFTWARE
+- 🌱 Inglês, Laravel 
 - 📫 kaiquenocetti07@gmail.com
+- https://www.linkedin.com/in/kaique-nocetti/
+
+Meu principais projetos em produção:
+https://ajfimoveis.com.br
+https://mostruario.online
+
