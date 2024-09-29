@@ -5,7 +5,7 @@ Fala ae! 👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueno7&layout=compact&langs_count=7&theme=dracula"/>
 </div-->
 
-- 🔭 Desenvolvedor FullStack na ITH2O - SOFTWARE
+- 🔭 Desenvolvedor FullStack na MEDPORTAL
 - 🌱 Inglês, Laravel 
 - 📫 kaiquenocetti07@gmail.com
 - https://www.linkedin.com/in/kaique-nocetti/
