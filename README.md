@@ -6,7 +6,7 @@ Fala ae! 👋
 </div-->
 
 - 🔭 Desenvolvedor FullStack na MEDPORTAL
-- 🌱 Inglês, Laravel 
+- 🌱 Inglês, React, NextJS, Laravel e Livewire
 - 📫 kaiquenocetti07@gmail.com
 - https://www.linkedin.com/in/kaique-nocetti/
 
