@@ -9,6 +9,7 @@ Fala ae! 👋
 - 🌱 Inglês, React, NextJS, Laravel e Livewire
 - 📫 kaiquenocetti07@gmail.com
 - https://www.linkedin.com/in/kaique-nocetti/
+- Porfolio https://www.kaiquenocetti.com/
 
 Meu principais projetos em produção:
 https://ajfimoveis.com.br
